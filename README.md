@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bnty_kumar
+- 👋 Hi, I’m @ banti kumar
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on github
